@@ -35,6 +35,7 @@ ruleset = [
     ["🎯 全球直连", "https://raw.githubusercontent.com/ZJU-Rule/ZJU-Rule/master/Clash/ChinaDomain.list"],
     ["🎯 全球直连", "https://raw.githubusercontent.com/ZJU-Rule/ZJU-Rule/master/Clash/ChinaCompanyIp.list"],
     ["🎯 全球直连", "https://raw.githubusercontent.com/ZJU-Rule/ZJU-Rule/master/Clash/Download.list"],
+    ["Antifilter", "https://community.antifilter.download/list/domains.clashx"],
     ["🎯 全球直连", "[]GEOIP,CN"],
     ["🐟 漏网之鱼", "[]FINAL"]
 ]
@@ -81,6 +82,11 @@ custom_proxy_group = [
     },
     {
         "name": "🌍 国外媒体",
+        "type": "select",
+        "prior": "PROXY"
+    },
+    {
+        "name": "Antifilter",
         "type": "select",
         "prior": "PROXY"
     },
