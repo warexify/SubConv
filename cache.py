@@ -70728,7 +70728,6 @@ cache="""  - DOMAIN-KEYWORD,openai,🤖 ChatBot
   - DOMAIN-SUFFIX,deviantart.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,devops.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,dist.torproject.org,Antifilter,PROXY
-  - DOMAIN-SUFFIX,dlcdnets.asus.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,docker.elastic.co,Antifilter,PROXY
   - DOMAIN-SUFFIX,docs.redis.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,download.lenovo.com,Antifilter,PROXY
@@ -70928,7 +70927,6 @@ cache="""  - DOMAIN-KEYWORD,openai,🤖 ChatBot
   - DOMAIN-SUFFIX,wide-youtube.l.google.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,windguru.cz,Antifilter,PROXY
   - DOMAIN-SUFFIX,wunderground.com,Antifilter,PROXY
-  - DOMAIN-SUFFIX,www.asus.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.bbc.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.bradyid.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.canva.com,Antifilter,PROXY
