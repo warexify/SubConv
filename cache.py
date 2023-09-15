@@ -70739,6 +70739,7 @@ cache="""  - DOMAIN-KEYWORD,openai,🤖 ChatBot
   - DOMAIN-SUFFIX,euronews.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,event.on24.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,facebook.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,fb.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,fbcdn.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,flibusta.is,Antifilter,PROXY
   - DOMAIN-SUFFIX,fluke.com,Antifilter,PROXY
@@ -70926,7 +70927,9 @@ cache="""  - DOMAIN-KEYWORD,openai,🤖 ChatBot
   - DOMAIN-SUFFIX,wheather.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,wide-youtube.l.google.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,windguru.cz,Antifilter,PROXY
+  - DOMAIN-SUFFIX,wixmp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,wunderground.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,www.analog.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.bbc.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.bradyid.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.canva.com,Antifilter,PROXY
@@ -70941,8 +70944,10 @@ cache="""  - DOMAIN-KEYWORD,openai,🤖 ChatBot
   - DOMAIN-SUFFIX,www.kavkazr.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.lenovo.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.lostfilmtv5.site,Antifilter,PROXY
+  - DOMAIN-SUFFIX,www.microchip.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.moscowtimes.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.patreon.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,www.pixiv.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.postfix.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.qualcomm.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.smashwords.com,Antifilter,PROXY
