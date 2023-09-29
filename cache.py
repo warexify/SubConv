@@ -71120,6 +71120,7 @@ cache="""  - DOMAIN-KEYWORD,openai,🤖 ChatBot
   - DOMAIN-SUFFIX,bt2.t-ru.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bt3.t-ru.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bt4.t-ru.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,builds.parsec.app,Antifilter,PROXY
   - DOMAIN-SUFFIX,canva.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,carmasters.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,cdninstagram.com,Antifilter,PROXY
@@ -71318,6 +71319,7 @@ cache="""  - DOMAIN-KEYWORD,openai,🤖 ChatBot
   - DOMAIN-SUFFIX,timberland.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,tjournal.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,tmdb.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,tokenized.play.google.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,tools.cisco.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,torproject.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,torrent.by,Antifilter,PROXY
