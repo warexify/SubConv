@@ -71234,6 +71234,7 @@ cache="""  - DOMAIN-KEYWORD,openai,🤖 ChatBot
   - DOMAIN-SUFFIX,netflix.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,news.google.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,newtimes.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,nih.gov,Antifilter,PROXY
   - DOMAIN-SUFFIX,nnmclub.to,Antifilter,PROXY
   - DOMAIN-SUFFIX,nordvpn.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,novayagazeta.eu,Antifilter,PROXY
