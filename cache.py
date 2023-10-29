@@ -71096,6 +71096,7 @@ cache="""  - DOMAIN-KEYWORD,openai,🤖 ChatBot
   - DOMAIN-SUFFIX,agentura.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,alberta.ca,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.app.prod.grazie.aws.intellij.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,api.github.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.openai.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.protonmail.ch,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.radarr.video,Antifilter,PROXY
