@@ -96,6 +96,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,colta.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,community.cisco.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,crunchyroll.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,czx.to,Antifilter,PROXY
   - DOMAIN-SUFFIX,database.clamav.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,deezer.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,dell.com,Antifilter,PROXY
@@ -107,8 +108,11 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,documentation.meraki.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,download.lenovo.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,doxajournal.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,dual-a-0001.a-msedge.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,dw.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,e1v-h.phncdn.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,edge.microsoft.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,edgeservices.bing.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ehorussia.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ej.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,euronews.com,Antifilter,PROXY
@@ -271,6 +275,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,support.ruckuswireless.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,svoboda.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,svtv.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,sydney.bing.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,sysdig.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,t.co,Antifilter,PROXY
   - DOMAIN-SUFFIX,tayga.info,Antifilter,PROXY
@@ -278,6 +283,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,theins.press,Antifilter,PROXY
   - DOMAIN-SUFFIX,theins.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,themoviedb.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,thepiratebay.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,tidal.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,timberland.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,tjournal.ru,Antifilter,PROXY
