@@ -82,6 +82,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,builds.parsec.app,Antifilter,PROXY
   - DOMAIN-SUFFIX,canva.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,carmasters.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,cdn.oaistatic.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,cdninstagram.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,certifytheweb.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,chat.openai.com,Antifilter,PROXY
@@ -120,6 +121,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,facebook.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,fb.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,fbcdn.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,files.oaiusercontent.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,flibusta.is,Antifilter,PROXY
   - DOMAIN-SUFFIX,fluke.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,fork.pet,Antifilter,PROXY
