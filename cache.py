@@ -53,6 +53,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,agents.media,Antifilter,PROXY
   - DOMAIN-SUFFIX,agentura.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,alberta.ca,Antifilter,PROXY
+  - DOMAIN-SUFFIX,anilibria.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.app.prod.grazie.aws.intellij.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.github.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.openai.com,Antifilter,PROXY
@@ -146,6 +147,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,holod.media,Antifilter,PROXY
   - DOMAIN-SUFFIX,hyperhost.ua,Antifilter,PROXY
   - DOMAIN-SUFFIX,ichef.bbci.co.uk,Antifilter,PROXY
+  - DOMAIN-SUFFIX,iichan.hk,Antifilter,PROXY
   - DOMAIN-SUFFIX,image.tmdb.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,img.youtube.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,instagram.com,Antifilter,PROXY
@@ -208,6 +210,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,novayagazeta.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,nyaa.si,Antifilter,PROXY
   - DOMAIN-SUFFIX,nyaa.tracker.wf,Antifilter,PROXY
+  - DOMAIN-SUFFIX,oaistatic.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,oasis.app,Antifilter,PROXY
   - DOMAIN-SUFFIX,omv-extras.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,onlinesim.ru,Antifilter,PROXY
