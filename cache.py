@@ -71,6 +71,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,atlassian.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,auth.grazie.ai,Antifilter,PROXY
   - DOMAIN-SUFFIX,auth0.openai.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,bard.google.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bbc.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitbucket.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitcoin.org,Antifilter,PROXY
@@ -214,6 +215,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,oasis.app,Antifilter,PROXY
   - DOMAIN-SUFFIX,omv-extras.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,onlinesim.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,open.spotify.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,os.mbed.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ovdinfo.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,packages.gitlab.com,Antifilter,PROXY
@@ -250,6 +252,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,ru.krymr.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,rus-media.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,rus.delfi.lv,Antifilter,PROXY
+  - DOMAIN-SUFFIX,rustorka.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,rutor.info,Antifilter,PROXY
   - DOMAIN-SUFFIX,rutor.is,Antifilter,PROXY
   - DOMAIN-SUFFIX,rutor.org,Antifilter,PROXY
@@ -308,6 +311,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,verstka.media,Antifilter,PROXY
   - DOMAIN-SUFFIX,vhd.zetflix.online,Antifilter,PROXY
   - DOMAIN-SUFFIX,video.twimg.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,vipdrive.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,vot-tak.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,vrv.co,Antifilter,PROXY
   - DOMAIN-SUFFIX,vyos.io,Antifilter,PROXY
