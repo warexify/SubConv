@@ -123,6 +123,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,facebook.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,fb.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,fbcdn.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,fex.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,files.oaiusercontent.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,flibusta.is,Antifilter,PROXY
   - DOMAIN-SUFFIX,fluke.com,Antifilter,PROXY
