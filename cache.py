@@ -78,11 +78,13 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,bitcoin.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitru.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,boosteroid.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,bradyid.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bt.t-ru.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bt2.t-ru.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bt3.t-ru.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bt4.t-ru.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,builds.parsec.app,Antifilter,PROXY
+  - DOMAIN-SUFFIX,canva.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,canva.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,carmasters.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,cdn.oaistatic.com,Antifilter,PROXY
@@ -224,12 +226,14 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,pandasecurity.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,paperpaper.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,path3.xtracloud.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,patreon.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,pay.buckaroo.nl,Antifilter,PROXY
   - DOMAIN-SUFFIX,paypal.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,pb.wtf,Antifilter,PROXY
   - DOMAIN-SUFFIX,pbs.twimg.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,php.su,Antifilter,PROXY
   - DOMAIN-SUFFIX,piccy.info,Antifilter,PROXY
+  - DOMAIN-SUFFIX,pixiv.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,platform.twitter.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,play.google.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,pornolab.net,Antifilter,PROXY
@@ -328,8 +332,6 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,wunderground.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.analog.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.bbc.com,Antifilter,PROXY
-  - DOMAIN-SUFFIX,www.bradyid.com,Antifilter,PROXY
-  - DOMAIN-SUFFIX,www.canva.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.cisco.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.citrix.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.currenttime.tv,Antifilter,PROXY
@@ -344,8 +346,6 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,www.lostfilmtv5.site,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.microchip.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.moscowtimes.ru,Antifilter,PROXY
-  - DOMAIN-SUFFIX,www.patreon.com,Antifilter,PROXY
-  - DOMAIN-SUFFIX,www.pixiv.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.postfix.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.qualcomm.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.smashwords.com,Antifilter,PROXY
