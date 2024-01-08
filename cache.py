@@ -77,6 +77,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,bitbucket.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitcoin.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitru.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,booktracker.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,boosteroid.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bradyid.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bt.t-ru.org,Antifilter,PROXY
@@ -128,6 +129,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,fbcdn.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,fex.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,files.oaiusercontent.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,filmix.biz,Antifilter,PROXY
   - DOMAIN-SUFFIX,flibusta.is,Antifilter,PROXY
   - DOMAIN-SUFFIX,fluke.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,fork.pet,Antifilter,PROXY
@@ -343,6 +345,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,www.intel.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.kavkazr.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.lenovo.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,www.lostfilm.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.lostfilmtv5.site,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.microchip.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.moscowtimes.ru,Antifilter,PROXY
