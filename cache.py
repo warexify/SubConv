@@ -209,6 +209,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,navalny.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,netflix.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,news.google.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,newstudio.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,newtimes.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,nih.gov,Antifilter,PROXY
   - DOMAIN-SUFFIX,nnmclub.to,Antifilter,PROXY
@@ -312,6 +313,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,tutanota.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,tvrain.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,twitter.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,ufile.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,underver.se,Antifilter,PROXY
   - DOMAIN-SUFFIX,unian.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,uniongang.tv,Antifilter,PROXY
