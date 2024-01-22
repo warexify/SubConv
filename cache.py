@@ -73,7 +73,9 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,auth.grazie.ai,Antifilter,PROXY
   - DOMAIN-SUFFIX,auth0.openai.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bard.google.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,bbc.co.uk,Antifilter,PROXY
   - DOMAIN-SUFFIX,bbc.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,bbci.co.uk,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitbucket.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitcoin.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitru.org,Antifilter,PROXY
