@@ -250,6 +250,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,radiosvoboda.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,raw-data.gitlab.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,redis.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,refactoring.guru,Antifilter,PROXY
   - DOMAIN-SUFFIX,refinitiv.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,registry.terraform.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,releases.hashicorp.com,Antifilter,PROXY
