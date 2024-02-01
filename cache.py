@@ -260,6 +260,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,rpm.grafana.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ru.bellingcat.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ru.depositphotos.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,ru.euronews.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ru.iherb.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ru.krymr.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,rus-media.org,Antifilter,PROXY
