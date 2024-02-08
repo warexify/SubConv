@@ -132,6 +132,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,fex.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,files.oaiusercontent.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,filmix.biz,Antifilter,PROXY
+  - DOMAIN-SUFFIX,firefly-ps.adobe.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,flibusta.is,Antifilter,PROXY
   - DOMAIN-SUFFIX,fluke.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,fork.pet,Antifilter,PROXY
@@ -314,6 +315,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,torproject.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,torrent.by,Antifilter,PROXY
   - DOMAIN-SUFFIX,tr.anidub.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,tracker.opentrackr.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,tutanota.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,tvrain.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,twitter.com,Antifilter,PROXY
