@@ -297,6 +297,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,support.ruckuswireless.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,svoboda.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,svtv.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,swagger.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,sydney.bing.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,sysdig.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,t.co,Antifilter,PROXY
