@@ -42,6 +42,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,1337x.to,Antifilter,PROXY
   - DOMAIN-SUFFIX,4pda.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,abook-club.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,abs-0.twimg.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,abs-zero.twimg.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,abs.twimg.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,account-api.protonmail.com,Antifilter,PROXY
@@ -141,6 +142,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,forum.voynaplemyon.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,gallery.zetalliance.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,geni.us,Antifilter,PROXY
+  - DOMAIN-SUFFIX,genius.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ggpht.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,gitlab.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,gllto.glpals.com,Antifilter,PROXY
