@@ -69,6 +69,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,appstorrent.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,apt.releases.hashicorp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,aqicn.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,arc.intel.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,artifacts.elastic.co,Antifilter,PROXY
   - DOMAIN-SUFFIX,atlassian.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,auth.grazie.ai,Antifilter,PROXY
@@ -117,6 +118,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,docs.redis.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,documentation.meraki.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,download.lenovo.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,download.screamingfrog.co.uk,Antifilter,PROXY
   - DOMAIN-SUFFIX,doxajournal.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,dual-a-0001.a-msedge.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,dw.com,Antifilter,PROXY
@@ -168,6 +170,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,instagram.frix7-1.fna.fbcdn.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,instagram.fvno2-1.fna.fbcdn.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,intel.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,island-of-pleasure.site,Antifilter,PROXY
   - DOMAIN-SUFFIX,istories.media,Antifilter,PROXY
   - DOMAIN-SUFFIX,kasparov.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,kavkaz-uzel.eu,Antifilter,PROXY
@@ -282,6 +285,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,seedoff.zannn.top,Antifilter,PROXY
   - DOMAIN-SUFFIX,semnasem.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,serpstat.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,singlekey-id.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,skladchik.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,skyscanner.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,slideshare.net,Antifilter,PROXY
@@ -304,6 +308,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,sysdig.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,t.co,Antifilter,PROXY
   - DOMAIN-SUFFIX,tayga.info,Antifilter,PROXY
+  - DOMAIN-SUFFIX,tcr9i.chat.openai.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,terraform.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,theins.press,Antifilter,PROXY
   - DOMAIN-SUFFIX,theins.ru,Antifilter,PROXY
@@ -366,6 +371,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,www.stalker2.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.the-village.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.themoviedb.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,www.ti.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.torproject.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.wikiart.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.wunderground.com,Antifilter,PROXY
