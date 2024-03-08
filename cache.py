@@ -58,6 +58,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,anilibria.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.app.prod.grazie.aws.intellij.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.github.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,api.home-connect.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.openai.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.protonmail.ch,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.radarr.video,Antifilter,PROXY
@@ -129,6 +130,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,ej.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,euronews.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,event.on24.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,exler.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,facebook.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,fb.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,fbcdn.net,Antifilter,PROXY
@@ -195,6 +197,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,macpaw.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,macvendors.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,mail.protonmail.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,malwarebytes.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,marketplace.atlassian.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,master.qt.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,mattermost.com,Antifilter,PROXY
