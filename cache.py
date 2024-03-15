@@ -74,6 +74,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,artifacts.elastic.co,Antifilter,PROXY
   - DOMAIN-SUFFIX,atlassian.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,auth.grazie.ai,Antifilter,PROXY
+  - DOMAIN-SUFFIX,auth.openai.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,auth0.openai.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bard.google.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bbc.co.uk,Antifilter,PROXY
@@ -97,6 +98,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,cdninstagram.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,certifytheweb.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,chat.openai.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,chatgpt.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,checkout.buckaroo.nl,Antifilter,PROXY
   - DOMAIN-SUFFIX,cherta.media,Antifilter,PROXY
   - DOMAIN-SUFFIX,chess.com,Antifilter,PROXY
@@ -120,6 +122,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,documentation.meraki.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,download.lenovo.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,download.screamingfrog.co.uk,Antifilter,PROXY
+  - DOMAIN-SUFFIX,download.wetransfer.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,doxajournal.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,dual-a-0001.a-msedge.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,dw.com,Antifilter,PROXY
@@ -234,6 +237,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,omv-extras.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,onlinesim.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,open.spotify.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,openai.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,os.mbed.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ovdinfo.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,packages.gitlab.com,Antifilter,PROXY
@@ -346,6 +350,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,weather.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,weblance.com.ua,Antifilter,PROXY
   - DOMAIN-SUFFIX,welt.de,Antifilter,PROXY
+  - DOMAIN-SUFFIX,wetransfer.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,wheather.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,wide-youtube.l.google.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,windguru.cz,Antifilter,PROXY
@@ -362,6 +367,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,www.grammarly.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.hrw.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.intel.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,www.jabra.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.kavkazr.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.lenovo.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.lostfilm.tv,Antifilter,PROXY
