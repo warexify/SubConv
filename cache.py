@@ -41,6 +41,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,10minutemail.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,1337x.to,Antifilter,PROXY
   - DOMAIN-SUFFIX,4pda.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,ab.chatgpt.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,abook-club.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,abs-0.twimg.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,abs-zero.twimg.com,Antifilter,PROXY
@@ -85,6 +86,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,bitru.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,booktracker.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,boosteroid.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,bosch-home.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bradyid.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bt.t-ru.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bt2.t-ru.org,Antifilter,PROXY
@@ -230,6 +232,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,nordvpn.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,novayagazeta.eu,Antifilter,PROXY
   - DOMAIN-SUFFIX,novayagazeta.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,ntc.party,Antifilter,PROXY
   - DOMAIN-SUFFIX,nyaa.si,Antifilter,PROXY
   - DOMAIN-SUFFIX,nyaa.tracker.wf,Antifilter,PROXY
   - DOMAIN-SUFFIX,oaistatic.com,Antifilter,PROXY
