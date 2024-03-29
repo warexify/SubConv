@@ -255,6 +255,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,php.su,Antifilter,PROXY
   - DOMAIN-SUFFIX,piccy.info,Antifilter,PROXY
   - DOMAIN-SUFFIX,pixiv.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,plab.site,Antifilter,PROXY
   - DOMAIN-SUFFIX,platform.twitter.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,play.google.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,pornolab.net,Antifilter,PROXY
@@ -306,6 +307,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,st.kinovod.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,static-ss.xvideos-cdn.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,static.files.bbci.co.uk,Antifilter,PROXY
+  - DOMAIN-SUFFIX,static.rutracker.cc,Antifilter,PROXY
   - DOMAIN-SUFFIX,strava.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,stulchik.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,support.cambiumnetworks.com,Antifilter,PROXY
