@@ -258,6 +258,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,plab.site,Antifilter,PROXY
   - DOMAIN-SUFFIX,platform.twitter.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,play.google.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,polit.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,pornolab.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,portal.bgpmon.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,proekt.media,Antifilter,PROXY
