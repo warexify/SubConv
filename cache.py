@@ -292,6 +292,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,s3-1.amazonaws.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,saverudata.info,Antifilter,PROXY
   - DOMAIN-SUFFIX,saverudata.online,Antifilter,PROXY
+  - DOMAIN-SUFFIX,scontent.cdninstagram.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,sebeanus.online,Antifilter,PROXY
   - DOMAIN-SUFFIX,secure-web.cisco.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,seedoff.zannn.top,Antifilter,PROXY
@@ -307,6 +308,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,spotify.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,st.kinovod.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,static-ss.xvideos-cdn.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,static.cdninstagram.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,static.files.bbci.co.uk,Antifilter,PROXY
   - DOMAIN-SUFFIX,static.rutracker.cc,Antifilter,PROXY
   - DOMAIN-SUFFIX,strava.com,Antifilter,PROXY
@@ -369,6 +371,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,www.currenttime.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.dell.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.deviantart.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,www.digitalocean.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.dw.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.grammarly.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.hrw.org,Antifilter,PROXY
