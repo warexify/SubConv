@@ -49,7 +49,6 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,account-api.protonmail.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,account.protonmail.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,accounts.spotify.com,Antifilter,PROXY
-  - DOMAIN-SUFFIX,acf.international,Antifilter,PROXY
   - DOMAIN-SUFFIX,adguard.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,afcs.dellcdn.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,aftermarket.zf.com,Antifilter,PROXY
@@ -257,7 +256,6 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,pixiv.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,plab.site,Antifilter,PROXY
   - DOMAIN-SUFFIX,platform.twitter.com,Antifilter,PROXY
-  - DOMAIN-SUFFIX,play.google.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,polit.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,pornolab.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,portal.bgpmon.net,Antifilter,PROXY
@@ -395,7 +393,6 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,www.wunderground.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xhamster.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xhamsterlive.com,Antifilter,PROXY
-  - DOMAIN-SUFFIX,xiaomi.eu,Antifilter,PROXY
   - DOMAIN-SUFFIX,xnxx.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xvideos.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,yt3.ggpht.com,Antifilter,PROXY
