@@ -51,6 +51,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,accounts.spotify.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,adguard.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,afcs.dellcdn.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,aftermarket.schaeffler.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,aftermarket.zf.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,agents.media,Antifilter,PROXY
   - DOMAIN-SUFFIX,agentura.ru,Antifilter,PROXY
@@ -94,7 +95,6 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,builds.parsec.app,Antifilter,PROXY
   - DOMAIN-SUFFIX,canva.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,canva.com,Antifilter,PROXY
-  - DOMAIN-SUFFIX,carmasters.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,cdn.oaistatic.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,cdninstagram.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,certifytheweb.com,Antifilter,PROXY
@@ -217,7 +217,6 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,monster.ie,Antifilter,PROXY
   - DOMAIN-SUFFIX,mouser.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,mrakopedia.net,Antifilter,PROXY
-  - DOMAIN-SUFFIX,mt.lv,Antifilter,PROXY
   - DOMAIN-SUFFIX,mult.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,my.atlassian.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,nasvsehtoshnit.ru,Antifilter,PROXY
@@ -266,6 +265,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,radiosvoboda.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,raw-data.gitlab.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,redis.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,redtube.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,refactoring.guru,Antifilter,PROXY
   - DOMAIN-SUFFIX,refinitiv.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,registry.terraform.io,Antifilter,PROXY
@@ -289,7 +289,6 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,rutracker.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,s3-1.amazonaws.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,saverudata.info,Antifilter,PROXY
-  - DOMAIN-SUFFIX,saverudata.online,Antifilter,PROXY
   - DOMAIN-SUFFIX,scontent.cdninstagram.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,sebeanus.online,Antifilter,PROXY
   - DOMAIN-SUFFIX,secure-web.cisco.com,Antifilter,PROXY
@@ -368,7 +367,6 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,www.citrix.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.currenttime.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.dell.com,Antifilter,PROXY
-  - DOMAIN-SUFFIX,www.deviantart.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.digitalocean.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.dw.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.grammarly.com,Antifilter,PROXY
