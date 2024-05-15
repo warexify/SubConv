@@ -68,6 +68,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,aplawrence.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,app.m3u.in,Antifilter,PROXY
   - DOMAIN-SUFFIX,app.paraswap.io,Antifilter,PROXY
+  - DOMAIN-SUFFIX,app.zerossl.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,appstorrent.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,apt.releases.hashicorp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,aqicn.org,Antifilter,PROXY
@@ -138,6 +139,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,facebook.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,fb.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,fbcdn.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,fbsbx.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,fex.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,files.oaiusercontent.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,filmix.biz,Antifilter,PROXY
@@ -217,7 +219,6 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,monster.ie,Antifilter,PROXY
   - DOMAIN-SUFFIX,mouser.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,mrakopedia.net,Antifilter,PROXY
-  - DOMAIN-SUFFIX,mult.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,my.atlassian.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,nasvsehtoshnit.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,navalny.com,Antifilter,PROXY
@@ -290,6 +291,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,s3-1.amazonaws.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,saverudata.info,Antifilter,PROXY
   - DOMAIN-SUFFIX,scontent.cdninstagram.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,searchfloor.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,sebeanus.online,Antifilter,PROXY
   - DOMAIN-SUFFIX,secure-web.cisco.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,seedoff.zannn.top,Antifilter,PROXY
