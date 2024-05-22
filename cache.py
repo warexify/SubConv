@@ -113,6 +113,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,community.cisco.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,crunchyroll.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,czx.to,Antifilter,PROXY
+  - DOMAIN-SUFFIX,d.docs.live.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,database.clamav.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,deezer.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,dell.com,Antifilter,PROXY
@@ -133,6 +134,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,edgeservices.bing.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ehorussia.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ej.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,etsy.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,euronews.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,event.on24.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,exler.ru,Antifilter,PROXY
@@ -178,6 +180,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,instagram.frix7-1.fna.fbcdn.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,instagram.fvno2-1.fna.fbcdn.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,intel.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,ios.chat.openai.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,island-of-pleasure.site,Antifilter,PROXY
   - DOMAIN-SUFFIX,istories.media,Antifilter,PROXY
   - DOMAIN-SUFFIX,kasparov.ru,Antifilter,PROXY
@@ -216,6 +219,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,memohrc.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,metacritic.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,meteo.paraplan.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,mobile.events.data.microsoft.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,monster.ie,Antifilter,PROXY
   - DOMAIN-SUFFIX,mouser.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,mrakopedia.net,Antifilter,PROXY
@@ -251,6 +255,8 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,paypal.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,pb.wtf,Antifilter,PROXY
   - DOMAIN-SUFFIX,pbs.twimg.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,pcbway.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,pcbway.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,php.su,Antifilter,PROXY
   - DOMAIN-SUFFIX,piccy.info,Antifilter,PROXY
   - DOMAIN-SUFFIX,pixiv.net,Antifilter,PROXY
