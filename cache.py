@@ -349,6 +349,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,twitter.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ufile.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,underver.se,Antifilter,PROXY
+  - DOMAIN-SUFFIX,unfiltered.adguard-dns.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,unian.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,uniongang.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,velocidrone.com,Antifilter,PROXY
@@ -397,6 +398,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,www.torproject.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.wikiart.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.wunderground.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,x.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xhamster.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xhamsterlive.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xnxx.com,Antifilter,PROXY
