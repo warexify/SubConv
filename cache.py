@@ -169,7 +169,6 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,helm.releases.hashicorp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,holod.global.ssl.fastly.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,holod.media,Antifilter,PROXY
-  - DOMAIN-SUFFIX,hub.docker.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,hyperhost.ua,Antifilter,PROXY
   - DOMAIN-SUFFIX,ichef.bbci.co.uk,Antifilter,PROXY
   - DOMAIN-SUFFIX,iichan.hk,Antifilter,PROXY
@@ -402,7 +401,6 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,xhamsterlive.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xnxx.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xvideos.com,Antifilter,PROXY
-  - DOMAIN-SUFFIX,yt3.ggpht.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,zetflix.online,Antifilter,PROXY
   - DOMAIN-SUFFIX,znanija.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,zohomail.com,Antifilter,PROXY
