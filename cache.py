@@ -192,6 +192,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,kinozal.me,Antifilter,PROXY
   - DOMAIN-SUFFIX,kinozal.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,korrespondent.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,kpapp.link,Antifilter,PROXY
   - DOMAIN-SUFFIX,lenovo.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,lib.rus.ec,Antifilter,PROXY
   - DOMAIN-SUFFIX,libgen.rs,Antifilter,PROXY
@@ -351,6 +352,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,unfiltered.adguard-dns.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,unian.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,uniongang.tv,Antifilter,PROXY
+  - DOMAIN-SUFFIX,vectorworks.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,velocidrone.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,verstka.media,Antifilter,PROXY
   - DOMAIN-SUFFIX,vhd.zetflix.online,Antifilter,PROXY
