@@ -119,6 +119,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,dell.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,deviantart.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,devops.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,digitalocean.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,dist.torproject.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,docker.elastic.co,Antifilter,PROXY
   - DOMAIN-SUFFIX,docs.redis.com,Antifilter,PROXY
@@ -198,6 +199,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,linkedin.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,linuxiac.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,localbitcoins.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,login.amd.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,lostfilm.run,Antifilter,PROXY
   - DOMAIN-SUFFIX,lostfilm.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,lostfilm.win,Antifilter,PROXY
@@ -245,6 +247,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,onlinesim.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,open.spotify.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,openai.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,openwrt.wk.cz,Antifilter,PROXY
   - DOMAIN-SUFFIX,os.mbed.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ovdinfo.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,packages.gitlab.com,Antifilter,PROXY
@@ -336,6 +339,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,themoviedb.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,thepiratebay.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,tidal.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,tiktok.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,timberland.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,tjournal.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,tmdb.org,Antifilter,PROXY
