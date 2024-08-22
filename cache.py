@@ -57,8 +57,10 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,agentura.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,alberta.ca,Antifilter,PROXY
   - DOMAIN-SUFFIX,anilibria.tv,Antifilter,PROXY
+  - DOMAIN-SUFFIX,antizapret.prostovpn.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.app.prod.grazie.aws.intellij.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.github.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,api.githubcopilot.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.home-connect.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.openai.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.protonmail.ch,Antifilter,PROXY
@@ -111,6 +113,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,cloudflare-dns.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,colta.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,community.cisco.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,crunchyroll.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,czx.to,Antifilter,PROXY
   - DOMAIN-SUFFIX,d.docs.live.net,Antifilter,PROXY
@@ -124,6 +127,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,docker.elastic.co,Antifilter,PROXY
   - DOMAIN-SUFFIX,docs.redis.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,documentation.meraki.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,download.jetbrains.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,download.lenovo.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,download.screamingfrog.co.uk,Antifilter,PROXY
   - DOMAIN-SUFFIX,download.wetransfer.com,Antifilter,PROXY
@@ -165,6 +169,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,grammarly.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,grazie.ai,Antifilter,PROXY
   - DOMAIN-SUFFIX,gulagu.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,habr.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,hd.zetfix.online,Antifilter,PROXY
   - DOMAIN-SUFFIX,helm.releases.hashicorp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,holod.global.ssl.fastly.net,Antifilter,PROXY
@@ -384,6 +389,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,www.digitalocean.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.dw.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.grammarly.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,www.hetzner.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.hrw.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.intel.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.jabra.com,Antifilter,PROXY
@@ -393,10 +399,12 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,www.lostfilmtv5.site,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.microchip.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.moscowtimes.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,www.mouser.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.postfix.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.qualcomm.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.smashwords.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.stalker2.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,www.support.xerox.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.the-village.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.themoviedb.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.ti.com,Antifilter,PROXY
