@@ -98,6 +98,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,builds.parsec.app,Antifilter,PROXY
   - DOMAIN-SUFFIX,canva.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,canva.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,cdn.id.supercell.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,cdn.oaistatic.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,cdninstagram.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,certifytheweb.com,Antifilter,PROXY
@@ -158,6 +159,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,formula1.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,forum.voynaplemyon.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,gallery.zetalliance.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,game.brawlstarsgame.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,geni.us,Antifilter,PROXY
   - DOMAIN-SUFFIX,genius.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,gitlab.io,Antifilter,PROXY
@@ -176,6 +178,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,holod.media,Antifilter,PROXY
   - DOMAIN-SUFFIX,hyperhost.ua,Antifilter,PROXY
   - DOMAIN-SUFFIX,ichef.bbci.co.uk,Antifilter,PROXY
+  - DOMAIN-SUFFIX,id.cisco.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,iichan.hk,Antifilter,PROXY
   - DOMAIN-SUFFIX,image.tmdb.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,instagram.com,Antifilter,PROXY
@@ -311,6 +314,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,secure-web.cisco.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,seedoff.zannn.top,Antifilter,PROXY
   - DOMAIN-SUFFIX,semnasem.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,sentry.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,serpstat.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,singlekey-id.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,skladchik.com,Antifilter,PROXY
@@ -318,6 +322,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,slideshare.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,soapui.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,sobesednik.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,software.cisco.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,soundcloud.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,spotify.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,st.kinovod.net,Antifilter,PROXY
@@ -364,6 +369,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,uniongang.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,vectorworks.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,velocidrone.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,veritas.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,verstka.media,Antifilter,PROXY
   - DOMAIN-SUFFIX,vhd.zetflix.online,Antifilter,PROXY
   - DOMAIN-SUFFIX,video.twimg.com,Antifilter,PROXY
