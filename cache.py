@@ -158,6 +158,8 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,forklog.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,formula1.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,forum.voynaplemyon.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,fw-download.ubnt.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,fw-update.ubnt.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,gallery.zetalliance.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,game.brawlstarsgame.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,geni.us,Antifilter,PROXY
@@ -274,6 +276,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,pixiv.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,plab.site,Antifilter,PROXY
   - DOMAIN-SUFFIX,platform.twitter.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,plugins.jetbrains.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,polit.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,pornolab.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,portal.bgpmon.net,Antifilter,PROXY
