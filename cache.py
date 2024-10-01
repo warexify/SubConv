@@ -110,6 +110,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,cisco.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,citrix.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,clamav.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,claude.ai,Antifilter,PROXY
   - DOMAIN-SUFFIX,cloud.mongodb.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,cloudflare-dns.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,colta.ru,Antifilter,PROXY
@@ -255,7 +256,6 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,onlineradiobox.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,onlinesim.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,open.spotify.com,Antifilter,PROXY
-  - DOMAIN-SUFFIX,openai.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,openwrt.wk.cz,Antifilter,PROXY
   - DOMAIN-SUFFIX,os.mbed.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ovdinfo.org,Antifilter,PROXY
