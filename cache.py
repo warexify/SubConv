@@ -370,6 +370,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,unian.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,uniongang.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,vectorworks.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,veeam.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,velocidrone.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,veritas.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,verstka.media,Antifilter,PROXY
