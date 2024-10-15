@@ -125,6 +125,13 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,deviantart.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,devops.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,digitalocean.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,discord.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,discord.gg,Antifilter,PROXY
+  - DOMAIN-SUFFIX,discord.media,Antifilter,PROXY
+  - DOMAIN-SUFFIX,discordapp.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,discordapp.io,Antifilter,PROXY
+  - DOMAIN-SUFFIX,discordapp.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,discordstatus.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,dist.torproject.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,docker.elastic.co,Antifilter,PROXY
   - DOMAIN-SUFFIX,docs.redis.com,Antifilter,PROXY
@@ -162,6 +169,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,fw-update.ubnt.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,gallery.zetalliance.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,game.brawlstarsgame.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,gateway.discord.gg,Antifilter,PROXY
   - DOMAIN-SUFFIX,geni.us,Antifilter,PROXY
   - DOMAIN-SUFFIX,genius.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,gitlab.io,Antifilter,PROXY
@@ -183,6 +191,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,id.cisco.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,iichan.hk,Antifilter,PROXY
   - DOMAIN-SUFFIX,image.tmdb.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,images.discordapp.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,instagram.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,instagram.fhrk1-1.fna.fbcdn.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,instagram.fkun2-1.fna.fbcdn.net,Antifilter,PROXY
@@ -332,6 +341,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,static.cdninstagram.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,static.files.bbci.co.uk,Antifilter,PROXY
   - DOMAIN-SUFFIX,static.rutracker.cc,Antifilter,PROXY
+  - DOMAIN-SUFFIX,status.discordapp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,strava.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,stulchik.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,support.cambiumnetworks.com,Antifilter,PROXY
