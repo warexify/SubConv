@@ -291,6 +291,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,portal.bgpmon.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,proekt.media,Antifilter,PROXY
   - DOMAIN-SUFFIX,protonmail.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,proxy.individual.githubcopilot.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,quora.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,radarr.servarr.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,radiosvoboda.org,Antifilter,PROXY
