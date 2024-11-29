@@ -41,6 +41,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,10minutemail.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,1337x.to,Antifilter,PROXY
   - DOMAIN-SUFFIX,4pda.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,7tv.app,Antifilter,PROXY
   - DOMAIN-SUFFIX,ab.chatgpt.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,abook-club.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,abs-0.twimg.com,Antifilter,PROXY
@@ -297,6 +298,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,radiosvoboda.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,raw-data.gitlab.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,redis.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,redis.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,redtube.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,refactoring.guru,Antifilter,PROXY
   - DOMAIN-SUFFIX,refinitiv.com,Antifilter,PROXY
