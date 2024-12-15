@@ -203,6 +203,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,ios.chat.openai.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,island-of-pleasure.site,Antifilter,PROXY
   - DOMAIN-SUFFIX,istories.media,Antifilter,PROXY
+  - DOMAIN-SUFFIX,jut.su,Antifilter,PROXY
   - DOMAIN-SUFFIX,kasparov.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,kavkaz-uzel.eu,Antifilter,PROXY
   - DOMAIN-SUFFIX,kemono.party,Antifilter,PROXY
@@ -389,6 +390,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,veritas.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,verstka.media,Antifilter,PROXY
   - DOMAIN-SUFFIX,vhd.zetflix.online,Antifilter,PROXY
+  - DOMAIN-SUFFIX,viber.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,video.twimg.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,vipdrive.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,vot-tak.tv,Antifilter,PROXY
