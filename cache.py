@@ -135,6 +135,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,discordapp.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,discordstatus.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,dist.torproject.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,dl.discordapp.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,docker.elastic.co,Antifilter,PROXY
   - DOMAIN-SUFFIX,docs.redis.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,documentation.meraki.com,Antifilter,PROXY
