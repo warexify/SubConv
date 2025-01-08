@@ -210,6 +210,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,kemono.party,Antifilter,PROXY
   - DOMAIN-SUFFIX,kino.pub,Antifilter,PROXY
   - DOMAIN-SUFFIX,kinobase.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,kinogo.ec,Antifilter,PROXY
   - DOMAIN-SUFFIX,kinokopilka.pro,Antifilter,PROXY
   - DOMAIN-SUFFIX,kinovod.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,kinozal.me,Antifilter,PROXY
