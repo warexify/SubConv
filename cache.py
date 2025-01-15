@@ -40,7 +40,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - [Rule],Antifilter
   - DOMAIN-SUFFIX,10minutemail.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,1337x.to,Antifilter,PROXY
-  - DOMAIN-SUFFIX,4pda.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,4pda.to,Antifilter,PROXY
   - DOMAIN-SUFFIX,7tv.app,Antifilter,PROXY
   - DOMAIN-SUFFIX,ab.chatgpt.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,abook-club.ru,Antifilter,PROXY
@@ -151,6 +151,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,edgeservices.bing.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ehorussia.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ej.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,envato.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,etsy.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,euronews.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,event.on24.com,Antifilter,PROXY
@@ -252,6 +253,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,myworld-portal.leica-geosystems.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,nasvsehtoshnit.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,navalny.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,netapp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,netflix.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,news.google.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,newstudio.tv,Antifilter,PROXY
@@ -271,6 +273,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,onlinesim.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,open.spotify.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,openwrt.wk.cz,Antifilter,PROXY
+  - DOMAIN-SUFFIX,orbit-games.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,os.mbed.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ovdinfo.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,packages.gitlab.com,Antifilter,PROXY
@@ -334,10 +337,12 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,semnasem.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,sentry.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,serpstat.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,siemens-home.bsh-group.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,singlekey-id.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,skladchik.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,skyscanner.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,slideshare.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,snapmagic.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,soapui.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,sobesednik.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,software.cisco.com,Antifilter,PROXY
@@ -439,6 +444,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,www.wikiart.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.wunderground.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,x.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,xerox.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xhamster.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xhamsterlive.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xnxx.com,Antifilter,PROXY
