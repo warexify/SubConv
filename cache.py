@@ -70,6 +70,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,api.themoviedb.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.twitter.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,aplawrence.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,app.4pda.to,Antifilter,PROXY
   - DOMAIN-SUFFIX,app.m3u.in,Antifilter,PROXY
   - DOMAIN-SUFFIX,app.paraswap.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,app.zerossl.com,Antifilter,PROXY
@@ -163,6 +164,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,fex.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,files.oaiusercontent.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,firefly-ps.adobe.io,Antifilter,PROXY
+  - DOMAIN-SUFFIX,flashscore.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,flibusta.is,Antifilter,PROXY
   - DOMAIN-SUFFIX,fluke.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,fork.pet,Antifilter,PROXY
