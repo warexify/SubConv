@@ -71,6 +71,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,api.twitter.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,aplawrence.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,app.4pda.to,Antifilter,PROXY
+  - DOMAIN-SUFFIX,app.amplitude.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,app.m3u.in,Antifilter,PROXY
   - DOMAIN-SUFFIX,app.paraswap.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,app.zerossl.com,Antifilter,PROXY
@@ -192,6 +193,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,helm.releases.hashicorp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,holod.global.ssl.fastly.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,holod.media,Antifilter,PROXY
+  - DOMAIN-SUFFIX,honeywell.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,hyperhost.ua,Antifilter,PROXY
   - DOMAIN-SUFFIX,ichef.bbci.co.uk,Antifilter,PROXY
   - DOMAIN-SUFFIX,id.cisco.com,Antifilter,PROXY
