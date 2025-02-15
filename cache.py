@@ -89,6 +89,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,bbc.co.uk,Antifilter,PROXY
   - DOMAIN-SUFFIX,bbc.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bbci.co.uk,Antifilter,PROXY
+  - DOMAIN-SUFFIX,bestchange.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitbucket.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitcoin.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitru.org,Antifilter,PROXY
@@ -122,6 +123,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,community.cisco.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,crunchyroll.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,cub.red,Antifilter,PROXY
   - DOMAIN-SUFFIX,czx.to,Antifilter,PROXY
   - DOMAIN-SUFFIX,d.docs.live.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,database.clamav.net,Antifilter,PROXY
