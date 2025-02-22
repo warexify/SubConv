@@ -89,7 +89,6 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,bbc.co.uk,Antifilter,PROXY
   - DOMAIN-SUFFIX,bbc.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bbci.co.uk,Antifilter,PROXY
-  - DOMAIN-SUFFIX,bestchange.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitbucket.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitcoin.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitru.org,Antifilter,PROXY
@@ -190,6 +189,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,gordonua.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,grammarly.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,grazie.ai,Antifilter,PROXY
+  - DOMAIN-SUFFIX,grok.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,gulagu.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,habr.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,hd.zetfix.online,Antifilter,PROXY
@@ -268,6 +268,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,nih.gov,Antifilter,PROXY
   - DOMAIN-SUFFIX,nnmclub.to,Antifilter,PROXY
   - DOMAIN-SUFFIX,nordvpn.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,notepad-plus-plus.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,novayagazeta.eu,Antifilter,PROXY
   - DOMAIN-SUFFIX,novayagazeta.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,ntc.party,Antifilter,PROXY
@@ -450,6 +451,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,www.torproject.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.wikiart.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.wunderground.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,x.ai,Antifilter,PROXY
   - DOMAIN-SUFFIX,x.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xerox.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xhamster.com,Antifilter,PROXY
