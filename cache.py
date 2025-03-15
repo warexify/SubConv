@@ -60,6 +60,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,alberta.ca,Antifilter,PROXY
   - DOMAIN-SUFFIX,amnezia.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,anilibria.tv,Antifilter,PROXY
+  - DOMAIN-SUFFIX,animestars.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,antizapret.prostovpn.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.app.prod.grazie.aws.intellij.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.github.com,Antifilter,PROXY
@@ -458,6 +459,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,xhamsterlive.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xnxx.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xvideos.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,yeggi.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,zetflix.online,Antifilter,PROXY
   - DOMAIN-SUFFIX,znanija.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,zohomail.com,Antifilter,PROXY
