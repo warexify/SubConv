@@ -97,6 +97,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,boosteroid.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bosch-home.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bradyid.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,broadcom.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bt.t-ru.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bt2.t-ru.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bt3.t-ru.org,Antifilter,PROXY
@@ -460,6 +461,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,xnxx.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,xvideos.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,yeggi.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,youtu.be,Antifilter,PROXY
   - DOMAIN-SUFFIX,zetflix.online,Antifilter,PROXY
   - DOMAIN-SUFFIX,znanija.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,zohomail.com,Antifilter,PROXY
