@@ -51,6 +51,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,account.jetbrains.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,account.protonmail.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,accounts.spotify.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,accounts.supercell.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,adguard.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,afcs.dellcdn.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,aftermarket.schaeffler.com,Antifilter,PROXY
@@ -262,7 +263,6 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,myworld-portal.leica-geosystems.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,nasvsehtoshnit.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,navalny.com,Antifilter,PROXY
-  - DOMAIN-SUFFIX,netapp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,netflix.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,news.google.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,newstudio.tv,Antifilter,PROXY
@@ -274,6 +274,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,novayagazeta.eu,Antifilter,PROXY
   - DOMAIN-SUFFIX,novayagazeta.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,ntc.party,Antifilter,PROXY
+  - DOMAIN-SUFFIX,nxp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,nyaa.si,Antifilter,PROXY
   - DOMAIN-SUFFIX,nyaa.tracker.wf,Antifilter,PROXY
   - DOMAIN-SUFFIX,oaistatic.com,Antifilter,PROXY
@@ -364,6 +365,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,static.files.bbci.co.uk,Antifilter,PROXY
   - DOMAIN-SUFFIX,static.rutracker.cc,Antifilter,PROXY
   - DOMAIN-SUFFIX,status.discordapp.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,store.supercell.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,strava.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,stulchik.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,support.cambiumnetworks.com,Antifilter,PROXY
