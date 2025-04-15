@@ -128,6 +128,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,cub.red,Antifilter,PROXY
   - DOMAIN-SUFFIX,czx.to,Antifilter,PROXY
   - DOMAIN-SUFFIX,d.docs.live.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,data-cdn.mbamupdates.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,database.clamav.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,deezer.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,dell.com,Antifilter,PROXY
@@ -263,6 +264,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,myworld-portal.leica-geosystems.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,nasvsehtoshnit.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,navalny.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,netapp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,netflix.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,news.google.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,newstudio.tv,Antifilter,PROXY
