@@ -123,6 +123,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,cloudflare-dns.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,colta.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,community.cisco.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,coomer.su,Antifilter,PROXY
   - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,crunchyroll.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,cub.red,Antifilter,PROXY
@@ -149,6 +150,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,documentation.meraki.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,download.jetbrains.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,download.lenovo.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,download.qt.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,download.screamingfrog.co.uk,Antifilter,PROXY
   - DOMAIN-SUFFIX,download.wetransfer.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,doxajournal.ru,Antifilter,PROXY
@@ -359,6 +361,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,soapui.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,sobesednik.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,software.cisco.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,sora.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,soundcloud.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,spotify.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,st.kinovod.net,Antifilter,PROXY
