@@ -185,6 +185,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,gallery.zetalliance.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,game.brawlstarsgame.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,gateway.discord.gg,Antifilter,PROXY
+  - DOMAIN-SUFFIX,geekyfuroshiki.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,geni.us,Antifilter,PROXY
   - DOMAIN-SUFFIX,genius.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,gitlab.io,Antifilter,PROXY
@@ -199,11 +200,13 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,gulagu.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,habr.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,hd.zetfix.online,Antifilter,PROXY
+  - DOMAIN-SUFFIX,hdkinoteatr.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,helm.releases.hashicorp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,holod.global.ssl.fastly.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,holod.media,Antifilter,PROXY
   - DOMAIN-SUFFIX,honeywell.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,hyperhost.ua,Antifilter,PROXY
+  - DOMAIN-SUFFIX,i.4pda.ws,Antifilter,PROXY
   - DOMAIN-SUFFIX,ichef.bbci.co.uk,Antifilter,PROXY
   - DOMAIN-SUFFIX,id.cisco.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,iichan.hk,Antifilter,PROXY
@@ -343,6 +346,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,rutracker.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,rutracker.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,s3-1.amazonaws.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,saveeditonline.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,saverudata.info,Antifilter,PROXY
   - DOMAIN-SUFFIX,scontent.cdninstagram.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,searchfloor.org,Antifilter,PROXY
