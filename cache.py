@@ -163,6 +163,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,ej.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,envato.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,etsy.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,eu-iot-prod.aws.tcljd.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,euronews.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,event.on24.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,exler.ru,Antifilter,PROXY
@@ -307,6 +308,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,pcbway.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,php.su,Antifilter,PROXY
   - DOMAIN-SUFFIX,piccy.info,Antifilter,PROXY
+  - DOMAIN-SUFFIX,pixabay.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,pixiv.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,plab.site,Antifilter,PROXY
   - DOMAIN-SUFFIX,platform.twitter.com,Antifilter,PROXY
