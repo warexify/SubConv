@@ -333,6 +333,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,repo.mongodb.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,republic.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,resp.app,Antifilter,PROXY
+  - DOMAIN-SUFFIX,ridl.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,rpm.grafana.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ru.bellingcat.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ru.depositphotos.com,Antifilter,PROXY
