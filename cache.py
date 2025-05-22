@@ -202,6 +202,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,habr.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,hd.zetfix.online,Antifilter,PROXY
   - DOMAIN-SUFFIX,hdkinoteatr.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,hdrezka.fm,Antifilter,PROXY
   - DOMAIN-SUFFIX,helm.releases.hashicorp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,holod.global.ssl.fastly.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,holod.media,Antifilter,PROXY
@@ -333,6 +334,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,repo.mongodb.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,republic.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,resp.app,Antifilter,PROXY
+  - DOMAIN-SUFFIX,rezka.ag,Antifilter,PROXY
   - DOMAIN-SUFFIX,ridl.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,rpm.grafana.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ru.bellingcat.com,Antifilter,PROXY
