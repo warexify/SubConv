@@ -82,6 +82,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,apt.releases.hashicorp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,aqicn.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,arc.intel.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,arm.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,artifacts.elastic.co,Antifilter,PROXY
   - DOMAIN-SUFFIX,atlassian.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,auth.grazie.ai,Antifilter,PROXY
@@ -307,6 +308,8 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,pbs.twimg.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,pcbway.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,pcbway.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,pepperl-fuchs.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,phoenixcontact.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,php.su,Antifilter,PROXY
   - DOMAIN-SUFFIX,piccy.info,Antifilter,PROXY
   - DOMAIN-SUFFIX,pixabay.com,Antifilter,PROXY
