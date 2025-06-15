@@ -481,6 +481,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,xvideos.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,yeggi.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,youtu.be,Antifilter,PROXY
+  - DOMAIN-SUFFIX,yt3.googleusercontent.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,zetflix.online,Antifilter,PROXY
   - DOMAIN-SUFFIX,znanija.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,zohomail.com,Antifilter,PROXY
