@@ -92,6 +92,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,bbc.co.uk,Antifilter,PROXY
   - DOMAIN-SUFFIX,bbc.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,bbci.co.uk,Antifilter,PROXY
+  - DOMAIN-SUFFIX,bestchange.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitbucket.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitcoin.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,bitru.org,Antifilter,PROXY
