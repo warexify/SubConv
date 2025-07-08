@@ -62,6 +62,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,amnezia.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,anilibria.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,animestars.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,ansys.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,antizapret.prostovpn.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.app.prod.grazie.aws.intellij.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,api.github.com,Antifilter,PROXY
