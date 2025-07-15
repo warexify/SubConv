@@ -166,6 +166,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,ehorussia.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ej.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,envato.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,epg.one,Antifilter,PROXY
   - DOMAIN-SUFFIX,etsy.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,eu-iot-prod.aws.tcljd.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,euronews.com,Antifilter,PROXY
@@ -232,6 +233,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,kasparov.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,kavkaz-uzel.eu,Antifilter,PROXY
   - DOMAIN-SUFFIX,kemono.party,Antifilter,PROXY
+  - DOMAIN-SUFFIX,kemono.su,Antifilter,PROXY
   - DOMAIN-SUFFIX,kino.pub,Antifilter,PROXY
   - DOMAIN-SUFFIX,kinobase.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,kinogo.ec,Antifilter,PROXY
