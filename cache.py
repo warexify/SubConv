@@ -251,6 +251,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,localbitcoins.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,login.amd.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,lostfilm.run,Antifilter,PROXY
+  - DOMAIN-SUFFIX,lostfilm.today,Antifilter,PROXY
   - DOMAIN-SUFFIX,lostfilm.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,lostfilm.win,Antifilter,PROXY
   - DOMAIN-SUFFIX,m.strava.com,Antifilter,PROXY
