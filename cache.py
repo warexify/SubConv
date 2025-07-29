@@ -33,10 +33,10 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - 404: Not Found,🌏 国内媒体
   - 404: Not Found,🌍 国外媒体
   - 404: Not Found,🚀 节点选择
+  - 429: Too Many Requests,🎯 全球直连
   - 404: Not Found,🎯 全球直连
   - 404: Not Found,🎯 全球直连
-  - 404: Not Found,🎯 全球直连
-  - 404: Not Found,🎯 全球直连
+  - 429: Too Many Requests,🎯 全球直连
   - [Rule],Antifilter
   - DOMAIN-SUFFIX,10minutemail.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,1337x.to,Antifilter,PROXY
@@ -83,6 +83,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,apt.releases.hashicorp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,aqicn.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,arc.intel.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,archiveofourown.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,arm.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,artifacts.elastic.co,Antifilter,PROXY
   - DOMAIN-SUFFIX,atlassian.com,Antifilter,PROXY
@@ -268,6 +269,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,medium.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,meduza.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,megapeer.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,melord.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,memohrc.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,metacritic.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,meteo.paraplan.net,Antifilter,PROXY
