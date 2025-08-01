@@ -33,10 +33,10 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - 404: Not Found,🌏 国内媒体
   - 404: Not Found,🌍 国外媒体
   - 404: Not Found,🚀 节点选择
-  - 429: Too Many Requests,🎯 全球直连
   - 404: Not Found,🎯 全球直连
   - 404: Not Found,🎯 全球直连
-  - 429: Too Many Requests,🎯 全球直连
+  - 404: Not Found,🎯 全球直连
+  - 404: Not Found,🎯 全球直连
   - [Rule],Antifilter
   - DOMAIN-SUFFIX,10minutemail.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,1337x.to,Antifilter,PROXY
