@@ -292,6 +292,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,notepad-plus-plus.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,novayagazeta.eu,Antifilter,PROXY
   - DOMAIN-SUFFIX,novayagazeta.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,nsf.gov,Antifilter,PROXY
   - DOMAIN-SUFFIX,ntc.party,Antifilter,PROXY
   - DOMAIN-SUFFIX,nxp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,nyaa.si,Antifilter,PROXY
@@ -441,6 +442,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,vot-tak.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,vrv.co,Antifilter,PROXY
   - DOMAIN-SUFFIX,vyos.io,Antifilter,PROXY
+  - DOMAIN-SUFFIX,vyos.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,watchguard.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,weather.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,weblance.com.ua,Antifilter,PROXY
