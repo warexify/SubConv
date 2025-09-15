@@ -308,6 +308,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,os.mbed.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,ovdinfo.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,packages.gitlab.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,pages.dev,Antifilter,PROXY
   - DOMAIN-SUFFIX,pandasecurity.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,paperpaper.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,path3.xtracloud.net,Antifilter,PROXY
