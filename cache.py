@@ -59,6 +59,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,agents.media,Antifilter,PROXY
   - DOMAIN-SUFFIX,agentura.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,alberta.ca,Antifilter,PROXY
+  - DOMAIN-SUFFIX,alphacoders.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,amnezia.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,anilibria.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,animestars.org,Antifilter,PROXY
@@ -329,6 +330,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,platform.twitter.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,plugins.jetbrains.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,polit.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,pornhub.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,pornolab.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,portal.bgpmon.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,proekt.media,Antifilter,PROXY
@@ -444,6 +446,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,vrv.co,Antifilter,PROXY
   - DOMAIN-SUFFIX,vyos.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,vyos.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,wall.alphacoders.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,watchguard.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,weather.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,weblance.com.ua,Antifilter,PROXY
