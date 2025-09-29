@@ -442,11 +442,13 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,viber.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,video.twimg.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,vipdrive.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,vndb.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,vot-tak.tv,Antifilter,PROXY
   - DOMAIN-SUFFIX,vrv.co,Antifilter,PROXY
   - DOMAIN-SUFFIX,vyos.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,vyos.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,wall.alphacoders.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,wallpapercave.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,watchguard.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,weather.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,weblance.com.ua,Antifilter,PROXY
