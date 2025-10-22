@@ -113,6 +113,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,canva.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,cdn.id.supercell.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,cdn.oaistatic.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,cdn2site.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,cdninstagram.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,certifytheweb.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,chat.openai.com,Antifilter,PROXY
