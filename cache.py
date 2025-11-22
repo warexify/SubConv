@@ -209,6 +209,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,grok.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,gulagu.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,habr.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,happycolorapp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,hd.zetfix.online,Antifilter,PROXY
   - DOMAIN-SUFFIX,hdkinoteatr.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,hdrezka.fm,Antifilter,PROXY
