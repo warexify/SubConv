@@ -137,6 +137,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,d.docs.live.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,data-cdn.mbamupdates.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,database.clamav.net,Antifilter,PROXY
+  - DOMAIN-SUFFIX,debian.map.fastlydns.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,deepl.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,deezer.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,dell.com,Antifilter,PROXY
