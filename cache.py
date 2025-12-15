@@ -183,6 +183,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,fex.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,files.oaiusercontent.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,firefly-ps.adobe.io,Antifilter,PROXY
+  - DOMAIN-SUFFIX,fitgirl-repacks.site,Antifilter,PROXY
   - DOMAIN-SUFFIX,flashscore.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,flibusta.is,Antifilter,PROXY
   - DOMAIN-SUFFIX,fluke.com,Antifilter,PROXY
