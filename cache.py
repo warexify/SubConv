@@ -326,6 +326,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,pcbway.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,pepperl-fuchs.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,phoenixcontact.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,photopea.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,php.su,Antifilter,PROXY
   - DOMAIN-SUFFIX,piccy.info,Antifilter,PROXY
   - DOMAIN-SUFFIX,pixabay.com,Antifilter,PROXY
