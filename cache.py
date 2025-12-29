@@ -284,6 +284,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,mrakopedia.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,my.atlassian.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,myworld-portal.leica-geosystems.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,naps2.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,nasvsehtoshnit.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,navalny.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,netapp.com,Antifilter,PROXY
