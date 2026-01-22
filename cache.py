@@ -127,6 +127,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,claude.ai,Antifilter,PROXY
   - DOMAIN-SUFFIX,cloud.mongodb.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,cloudflare-dns.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,codeium.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,colta.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,community.cisco.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,coomer.su,Antifilter,PROXY
@@ -191,6 +192,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,forklog.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,formula1.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,forum.voynaplemyon.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,freecodecamp.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,fw-download.ubnt.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,fw-update.ubnt.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,gallery.zetalliance.org,Antifilter,PROXY
@@ -317,6 +319,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,pages.dev,Antifilter,PROXY
   - DOMAIN-SUFFIX,pandasecurity.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,paperpaper.ru,Antifilter,PROXY
+  - DOMAIN-SUFFIX,parallels.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,path3.xtracloud.net,Antifilter,PROXY
   - DOMAIN-SUFFIX,patreon.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,pay.buckaroo.nl,Antifilter,PROXY
@@ -462,6 +465,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,wetransfer.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,wheather.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,windguru.cz,Antifilter,PROXY
+  - DOMAIN-SUFFIX,windsurf.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,wixmp.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,wunderground.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,www.analog.com,Antifilter,PROXY
