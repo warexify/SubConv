@@ -52,6 +52,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,account.protonmail.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,accounts.spotify.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,accounts.supercell.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,adblockplus.org,Antifilter,PROXY
   - DOMAIN-SUFFIX,adguard.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,afcs.dellcdn.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,aftermarket.schaeffler.com,Antifilter,PROXY
