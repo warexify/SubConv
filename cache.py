@@ -133,6 +133,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,community.cisco.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,coomer.su,Antifilter,PROXY
   - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,crunchyroll.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,cub.red,Antifilter,PROXY
   - DOMAIN-SUFFIX,czx.to,Antifilter,PROXY
@@ -203,6 +204,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,gemini.google.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,geni.us,Antifilter,PROXY
   - DOMAIN-SUFFIX,genius.com,Antifilter,PROXY
+  - DOMAIN-SUFFIX,githubcopilot.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,gitlab.io,Antifilter,PROXY
   - DOMAIN-SUFFIX,gllto.glpals.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,gnome-look.org,Antifilter,PROXY
@@ -299,6 +301,7 @@ cache="""  - 404: Not Found,🤖 ChatBot
   - DOMAIN-SUFFIX,nnmclub.to,Antifilter,PROXY
   - DOMAIN-SUFFIX,nordvpn.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,notepad-plus-plus.org,Antifilter,PROXY
+  - DOMAIN-SUFFIX,notion.com,Antifilter,PROXY
   - DOMAIN-SUFFIX,novayagazeta.eu,Antifilter,PROXY
   - DOMAIN-SUFFIX,novayagazeta.ru,Antifilter,PROXY
   - DOMAIN-SUFFIX,nsf.gov,Antifilter,PROXY
